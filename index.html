@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./assets/style/style.css">
+    <title>Face Detection</title>
+</head>
+
+<body>
+    <video id="background-video" autoplay loop muted poster="./assets/video/matrix-bg.mp4">
+        <source src="./assets/video/matrix-bg.mp4" type="video/mp4">
+    </video>
+    <div class="text">
+        <h1>Face Recognition</h1>
+        <p>ft. Tensorflow Blazeface</p>
+    </div>
+    <div class="video">
+        <video id="video" style="display:none;" autoplay></video>
+        <canvas id="canvas" width="600px" height="400px"></canvas>
+    </div>
+    <footer class="footer-links">
+        <p><a href="https://github.com/yskooo">Built with 🕴️ by Harold Martin Patacsil</a></p>
+
+    </footer>
+</body>
+<script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs"></script>
+<script src="https://cdn.jsdelivr.net/npm/@tensorflow-models/blazeface"></script>
+<script src="./assets/js/script.js"></script>
+
+</html>
