@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: monospace;
+    display: flex;
+    place-items: center;
+    flex-direction: column;
+}
+
+#background-video {
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: -1;
+}
+
+.text {
+    color: aliceblue;
+    margin-bottom: 3rem;
+    text-align: center;
+}
+
+.footer-links {
+    margin-top: 5.5rem;
+}
+
+.footer-links a {
+    text-decoration: none;
+    color: aliceblue;
+}
