@@ -21,6 +21,7 @@ body {
     top: 0;
     bottom: 0;
     z-index: -1;
+    filter: drop-shadow(offset-x offset-y blur-radius color);
 }
 
 .text {
