@@ -22,6 +22,6 @@ For a fuller understanding of how a face recognition system works, we should loo
 * JavaScript
 * ES6+
 
-## **Planing**:
+## **Planning**:
 
 I am planning to migrate it in React, or add different tensorflow models and make a button with a dropdowm where the visitor can choose. 
