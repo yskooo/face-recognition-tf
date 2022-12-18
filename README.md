@@ -16,11 +16,10 @@ For a fuller understanding of how a face recognition system works, we should loo
 
 ## **Tools**:
 
-* Tensorflow Blazeface
-* CSS
-* HTML
-* JavaScript
-* ES6+
+* Tensorflow Blazeface Model
+* HTML5
+* CSS3
+* JavaScript ES6+
 
 ## **Planning**:
 
