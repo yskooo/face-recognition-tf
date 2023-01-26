@@ -16,7 +16,7 @@ For a fuller understanding of how a face recognition system works, we should loo
 
 ## **Tools**:
 
-* Tensorflow Blazeface Model
+* Tensorflow.js [Tensorflow Blazeface Model]
 * HTML5
 * CSS3
 * JavaScript ES6+
