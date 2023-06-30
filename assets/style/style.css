@@ -30,6 +30,10 @@ body {
     text-align: center;
 }
 
+a {
+    color: white;
+}
+
 .footer-links {
     margin-top: 5.5rem;
 }
