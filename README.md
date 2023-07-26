@@ -1,6 +1,6 @@
 <h1 align="center" > Face Recognition </h1>
 
-## **An Introduction to Face Recognition Model**:
+## **Introduction to Face Recognition Model**:
 
 Face recognition models in Deep and Machine Learning are primarily created to ensure the security of identity. There are several frameworks used in building a face recognition model and one of them is <a href="https://www.tensorflow.org" target="_blank">TensorFlow</a>. The TensorFlow face recognition model has so far proven to be popular. 
 
