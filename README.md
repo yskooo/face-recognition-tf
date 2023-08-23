@@ -1,4 +1,4 @@
-<h1 align="center" > Face Recognition </h1>
+<h1 align="center"> Face Recognition</h1>
 
 ## **Introduction to Face Recognition Model**:
 
